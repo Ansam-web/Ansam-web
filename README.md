@@ -29,7 +29,7 @@ A computer science student with excellent collaboration and analytical abilities
 | [Cisco-Packet-Tracer](https://github.com/Ansam-web/Cisco-Packet-Tracer) | Network simulations using Cisco Packet Tracer (HTML)
 | [Socket-Programming](https://github.com/Ansam-web/Socket-Programming) | Simple socket programming demo (HTML + Python)
 | [Dynamic-Programming-Project](https://github.com/Ansam-web/Dynamic-Programming-Project) | Dynamic programming project (JavaFX)
-| [Al-Sarisi-Library-Project](https://github.com/Ansam-web/Al-Sarisi-Library-Project) | Library management system (database project) 
+| [movie-catalog-flutter-app](https://github.com/Ansam-web/movie-catalog-flutter-app) | A Flutter Movie Catalog application that integrates TMDB API and Firebase Authentication using Dio and Firestore.
 | [Healthcare-Interoperability-project](https://github.com/Ansam-web/Healthcare-Interoperability-project) | Health Systems Integration project 
 | [Services-Inc](https://github.com/Ansam-web/Services-Inc) | Software Engineering full project 
 | [Huffman-Project](https://github.com/Ansam-web/Huffman-Project) | Huffman Coding implementation (JavaFX)
