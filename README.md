@@ -29,7 +29,7 @@ A computer science student with excellent collaboration and analytical abilities
 |--------------|-------------|
 | [Cisco-Packet-Tracer](https://github.com/Ansam-web/Cisco-Packet-Tracer) | Network simulations using Cisco Packet Tracer (HTML)
 | [bootstrap-company-website](https://github.com/Ansam-web/bootstrap-company-website) | A responsive company website developed using Bootstrap 5
-| [Rental-Website](https://github.com/Ansam-web/Rental-Website) | A responsive front-end website
+| [Rental-Website](https://github.com/Ansam-web/Rental-Website) | A modern and responsive front-end rental website built using HTML, Tailwind CSS, and JavaScript.
 | [Socket-Programming](https://github.com/Ansam-web/Socket-Programming) | Simple socket programming demo (HTML + Python)
 | [Dynamic-Programming-Project](https://github.com/Ansam-web/Dynamic-Programming-Project) | Dynamic programming project (JavaFX)
 | [movie-catalog-flutter-app](https://github.com/Ansam-web/movie-catalog-flutter-app) | A Flutter Movie Catalog application that integrates TMDB API and Firebase Authentication using Dio and Firestore.
