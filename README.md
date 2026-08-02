@@ -15,11 +15,12 @@ A computer science student with excellent collaboration and analytical abilities
 
 ## 💡 Skills
 
-- Java, C, PHP, HTML5, CSS  
+- Java, C, PHP, HTML5, CSS, JavaScript, Python
+- Bootstrap & Tailwind  
 - Data Structures & Algorithms  
 - MySQL  
 - Object-Oriented Programming (OOP)  
-- Teamwork, Leadership, Communication, Time Management, Creativity  
+- Teamwork, Communication, Time Management, Creativity  
 ---
 
 ## 🚀 My Projects
