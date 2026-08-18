@@ -28,6 +28,7 @@ A computer science student with excellent collaboration and analytical abilities
 | Project Name | Description
 |--------------|-------------|
 | [Cisco-Packet-Tracer](https://github.com/Ansam-web/Cisco-Packet-Tracer) | Network simulations using Cisco Packet Tracer (HTML)
+| [Flight Delay Prediction Project](https://github.com/Ansam-web/Flight_Delay_Project) | A project that analyzes and predicts flight delays across various countries by applying data science techniques
 | [bootstrap-company-website](https://github.com/Ansam-web/bootstrap-company-website) | A responsive company website developed using Bootstrap 5
 | [Rental-Website](https://github.com/Ansam-web/Rental-Website) | A modern and responsive front-end rental website built using HTML, Tailwind CSS, and JavaScript.
 | [Socket-Programming](https://github.com/Ansam-web/Socket-Programming) | Simple socket programming demo (HTML + Python)
